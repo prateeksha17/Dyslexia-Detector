@@ -13,13 +13,42 @@ Dyslexia is a common learning disorder that affects reading and writing abilitie
 - Machine learning analysis for predicting the likelihood of dyslexia.
 - Referral to healthcare professionals for further evaluation and support.
 
-## Getting Started
+## Installation
 
-To get started with contributing to the project, follow these steps:
+1. Clone the repository:
+    ```bash
+    git clone https://github.com/organization/repository.git
+    ```
 
-1. **Fork the Repository**: Click the "Fork" button in the top-right corner of this repository to create your own copy.
+2. Navigate to the project directory:
+    ```bash
+    cd repository
+    ```
 
-2. **Clone the Repository**: Clone the forked repository to your local machine using Git.
 
-   ```bash
-   git clone https://github.com/your-username/dyslexia-detection-web-app.git
+
+
+## Contributing
+
+We welcome contributions from the community! If you'd like to contribute to DriveSafe, please follow these guidelines:
+
+1. Fork the repository.
+2. Create a new branch for your feature or bug fix:
+    ```bash
+    git checkout -b feature/my-feature
+    ```
+3. Make your changes and commit them:
+    ```bash
+    git commit -m 'Add new feature'
+    ```
+4. Push to your fork:
+    ```bash
+    git push origin feature/my-feature
+    ```
+5. Submit a pull request to the `main` branch of the original repository.
+
+Please ensure that your code follows the project's coding conventions and includes appropriate tests.
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
